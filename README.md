@@ -1,3 +1,3 @@
-# Kokoa-clone-2024-update
+# Kokoa Clone 2024 Update
 
 HTML & CSS are so much fun!
